@@ -1,0 +1,6 @@
+[submodule "medicalCardApp-UI"]
+	path = medicalCardApp-UI
+	url = https://github.com/Carcair/medicalCardApp-UI
+[submodule "medicalCardApp"]
+	path = medicalCardApp
+	url = https://github.com/Carcair/medicalCardApp
